@@ -1,0 +1,1 @@
+execute at @e[tag=TARDIS,limit=1] as @a[nbt={Inventory:[{id:"minecraft:gold_nugget",Slot:-106b,tag:{display:{Name:'[{"text":"♦","color":"yellow"},{"text":" TARDIS Key ","color":"gold","italic":false},{"text":"♦","color":"yellow"}]'}}}]},distance=..1] run tp @s 0 66 30 270 0
